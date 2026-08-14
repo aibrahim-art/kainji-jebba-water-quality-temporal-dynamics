@@ -1,4 +1,3 @@
-
 # kainji-jebba-water-quality-temporal-dynamics
 
 R scripts for variance partitioning, Granger causality, and changepoint detection of water-quality dynamics in the Kainji–Jebba reservoir cascade, Nigeria.
@@ -24,7 +23,7 @@ All scripts were developed and tested in R version 4.5.1–4.5.3. None of the da
 
 ## Data availability
 
-The water-quality, meteorological, and land-use datasets generated during this study are deposited in the Dryad Digital Repository. *[DOI to be inserted once available.]*
+The water-quality, meteorological, and land-use datasets generated during this study are deposited in the Dryad Digital Repository: https://doi.org/10.5061/dryad.8pk0p2p4h
 
 Scripts in this repository expect the corresponding data files (e.g., `water_quality_data.csv`, `Grouped_Dataset_Kainji_Jebba.xlsx`, `sampling_site.gpkg`, `buffers_5km.gpkg`) to be present locally and are not themselves bundled with the data — see the Dryad deposit above for the underlying dataset.
 
